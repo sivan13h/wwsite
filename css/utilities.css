@@ -1,0 +1,13 @@
+.txt-primary{
+    color: #3794be;
+}
+
+.btn-primary{
+    background-color: #3794be ;
+    padding:10px;
+    color: #ffffff;
+    border-radius: 5px;
+    font-size: 0.8rem;
+    width:100px;
+    text-align: center;
+}
