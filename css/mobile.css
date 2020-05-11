@@ -1,0 +1,39 @@
+.navbar{
+    flex-direction: column;
+}
+
+#about{
+    flex-direction: column;
+}
+
+#about .aboutBox{
+    width: 100%;
+}
+
+#about .aboutImg{
+    width: 100%;
+}
+
+.galleryImgs{
+    flex-direction: column;
+}
+
+.galleryImgs img{
+    width: 100%;
+}
+
+#blog{
+    flex-direction: column;
+}
+
+#team .teamContainer{
+    flex-direction: column;
+}
+
+#team .teamContainer .person{
+    margin: 0 auto;
+}
+
+#team .teamContainer p{
+    margin-bottom: 10px;
+}

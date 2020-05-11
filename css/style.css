@@ -49,6 +49,7 @@ input{
    top:0px;
    opacity: 0.8;
    transition: 0.5s;
+   z-index: 1;
 }
 
 .navbar.top{
@@ -191,13 +192,13 @@ input{
     display: flex;
     width:100%;
     max-width:1300px;
-margin:auto;
+    margin:auto;
     flex-wrap: wrap;
 }
 
 .galleryImgs img{
    width:25%;
-  max-height:320px;
+   max-height:320px;
    padding:5px;
 }
 
